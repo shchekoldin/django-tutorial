@@ -1,2 +1,3 @@
-login: ashchek
-password: ioChoh7eUqua9Aid
+# django-tutorial
+
+https://docs.djangoproject.com/en/2.0/intro/tutorial01/
